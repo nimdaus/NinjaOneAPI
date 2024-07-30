@@ -6,7 +6,9 @@ Some form of tunneling, e.g., `cloudflared`
 
 ## Setup
 ```pip install -r requirements.txt```
+
 ```clone out .env-template > .env```
+
 ```fill in new .env with respective details```
 
 ## Run
